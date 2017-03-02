@@ -1,2 +1,5 @@
-x <- rnorm(10)
-save(x, file = "x.RData")
+y <- rnorm(10)
+save(y, file = "x.RData")
+
+
+
